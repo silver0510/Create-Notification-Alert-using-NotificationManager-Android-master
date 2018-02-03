@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\phung\\.android\\build-cache\\dd9ca955295e5bdb0c05ea29aa30330387f0c193\\output\\res\\values-w500dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

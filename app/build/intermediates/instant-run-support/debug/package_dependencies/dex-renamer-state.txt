@@ -1,0 +1,13 @@
+#Sun Sep 03 19:23:25 JST 2017
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.3=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_00e445acaba205d805fd05d53a531d61dbe19d2d
+base.2=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_7e8f1e5a9e2624cb856154cec180120605a25701
+base.1=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e6b850da7c10d7987484ad4354cb3c87a1b57212
+base.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_cc977db9f1e3d85d8b0357d22545391f7caef3f0
+file.3=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_00e445acaba205d805fd05d53a531d61dbe19d2d\\classes.dex
+file.2=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_7e8f1e5a9e2624cb856154cec180120605a25701\\classes.dex
+file.1=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e6b850da7c10d7987484ad4354cb3c87a1b57212\\classes.dex
+file.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_cc977db9f1e3d85d8b0357d22545391f7caef3f0\\classes.dex

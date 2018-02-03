@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\phung\\.android\\build-cache\\dd9ca955295e5bdb0c05ea29aa30330387f0c193\\output\\res\\values-w720dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 76,
+                        "endOffset": 128
+                    }
+                }
+            }
+        ]
+    }
+]

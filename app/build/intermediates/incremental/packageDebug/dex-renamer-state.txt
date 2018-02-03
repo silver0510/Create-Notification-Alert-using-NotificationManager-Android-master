@@ -1,0 +1,7 @@
+#Sun Sep 03 19:23:26 JST 2017
+base.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db596a4311bd4ee1d7a0307492f491a655930ee3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40500578ef35df35529ea28d5a5935ac15ca26c9\\classes.dex
+base.1=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_40500578ef35df35529ea28d5a5935ac15ca26c9
+file.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db596a4311bd4ee1d7a0307492f491a655930ee3\\classes.dex

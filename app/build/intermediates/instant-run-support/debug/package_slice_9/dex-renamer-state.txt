@@ -1,0 +1,4 @@
+#Sun Sep 03 19:23:26 JST 2017
+base.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=F\:\\ProjectAndroid\\SourceCode\\Create-Notification-Alert-using-NotificationManager-Android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
